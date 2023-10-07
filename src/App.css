@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(161, 235, 235);
+}
+
+.App {
+  display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.Add {
+  margin-top: 30px;
+  color: white;
+  background-color: blue;
+  width: 300px;
+  padding: 10px;
+}
+
+.Delete {
+  margin-top: 30px;
+  color: white;
+  background-color: red;
+  width: 300px;
+  padding: 10px;
+}
+
+input {
+  width: 280px;
+  padding: 10px;
+}
+
+.crossed {
+  color: brown;
+  text-decoration: line-through;
+}
