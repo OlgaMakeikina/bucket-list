@@ -17,7 +17,7 @@ The application allows to add things to the list using INPUT. After a double cli
 3. Double click on the thing from tha list in case the thing is done.
 4. Click delete to delete the whole list. 
 
-### Tecnologies
+### Technologies
 
 1. JavaScript/ React
 2. HTML/ CSS
